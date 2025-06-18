@@ -60,7 +60,6 @@ This dashboard can be used in:
 
 ![Dashboard Screenshot](excel_dashboard.png)
 
-> *(Make sure to add your actual screenshot file in the repository)*
 
 ---
 
