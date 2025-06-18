@@ -75,7 +75,7 @@ This dashboard can be used in:
 
 Feel free to reach out for feedback or collaborations!  
 **Author**: Kajal Kewat  
-**Email**: [your-email@example.com]
+**Email**: [kajalkewat0710@gmail.com]
 
 ---
 
